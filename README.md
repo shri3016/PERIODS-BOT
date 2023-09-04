@@ -6,7 +6,7 @@
 
 # Demo Link-
 <p align="center">
-  <a href="https://drive.google.com/file/d/1wukqKrAyHMabjyRn8WH4YKVJmxmw1xeu/view?usp=drive_link" target="_blank"><img src="https://drive.google.com/file/d/1VqsiuNYE4qXwkWB1vhezYZ70aMkLgfuV/view?usp=drive_link" /></a>
+  <a href="https://drive.google.com/file/d/1wukqKrAyHMabjyRn8WH4YKVJmxmw1xeu/view?usp=drive_link" target="_blank"><img src="https://drive.google.com/uc?export=download&id=1VqsiuNYE4qXwkWB1vhezYZ70aMkLgfuV" /></a>
 </p>
 
 
