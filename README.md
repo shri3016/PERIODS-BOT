@@ -52,9 +52,7 @@ pip install textbase-client
 ### 2. Local installation
 Clone the repository and install the dependencies using [Poetry](https://python-poetry.org/) (you might have to [install Poetry](https://python-poetry.org/docs/#installation) first).
 
-
-
- ```bash
+```bash
 git clone https://github.com/shri3016/PERIODS-BOT
 cd textbase
 poetry shell
