@@ -55,7 +55,7 @@ Clone the repository and install the dependencies using [Poetry](https://python-
 For proper details see [here]()
 
 ```bash
-git clone https://github.com/cofactoryai/textbase
+git clone https://github.com/shri3016/PERIODS-BOT
 cd textbase
 poetry shell
 poetry install
