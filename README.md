@@ -4,6 +4,8 @@
 
 ![Alt Text](https://drive.google.com/uc?export=download&id=1VqsiuNYE4qXwkWB1vhezYZ70aMkLgfuV)
 
+# Demo Link-<iframe width="560" height="315" src="https://drive.google.com/uc?export=download&id=1wukqKrAyHMabjyRn8WH4YKVJmxmw1xeu" frameborder="0" allowfullscreen></iframe>
+
 
 ## Overview
 
@@ -48,12 +50,11 @@ Clone the repository and install the dependencies using [Poetry](https://python-
 For proper details see [here]()
 
 ```bash
-git clone https://github.com/shri3016/PERIODS-BOT
+git clone https://github.com/cofactoryai/textbase
 cd textbase
 poetry shell
 poetry install
 ```
-
 ## Start development server
 
 > If you're using the default template, **remember to set the OpenAI API key** in `main.py`.
