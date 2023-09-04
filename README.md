@@ -2,7 +2,8 @@
 
 # Periods Chatbot
 
-![Chatbot Image](![Alt text](https://drive.google.com/file/d/1VqsiuNYE4qXwkWB1vhezYZ70aMkLgfuV/view?usp=sharing))
+![Alt Text](https://drive.google.com/uc?export=download&id=1VqsiuNYE4qXwkWB1vhezYZ70aMkLgfuV)
+
 
 ## Overview
 
