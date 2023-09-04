@@ -47,6 +47,8 @@ Make sure you have `python version >=3.9.0`, it's always good to follow the [doc
 pip install textbase-client
 ```
 
+
+
 ### 2. Local installation
 Clone the repository and install the dependencies using [Poetry](https://python-poetry.org/) (you might have to [install Poetry](https://python-poetry.org/docs/#installation) first).
 
@@ -58,6 +60,7 @@ cd textbase
 poetry shell
 poetry install
 ```
+
 ## Start development server
 
 > If you're using the default template, **remember to set the OpenAI API key** in `main.py`.
