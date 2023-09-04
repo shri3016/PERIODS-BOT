@@ -3,13 +3,8 @@ from textbase.models import OpenAI
 from typing import List
 
 # Load your OpenAI API key
-OpenAI.api_key = "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"
+OpenAI.api_key = "YOUR_API_KEY"
 
-# Prompt for GPT-3.5 Turbo
-# SYSTEM_PROMPT = """You are chatting with an AI. There are no specific prefixes for responses, so you can ask or talk about anything you like.
-# The AI will respond in a natural, conversational manner. Feel free to start the conversation with any question or topic, and let's have a
-# pleasant chat!
-# """
 
 SYSTEM_PROMPT = """You are chatting with an AI specialized in menstrual health. The AI will provide information and answers related to menstrual health topics. Feel free to ask questions or seek information about menstruation, menstrual cycles, period pain, and related subjects.
 """
