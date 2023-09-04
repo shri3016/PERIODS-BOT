@@ -2,7 +2,8 @@
 
 # Periods Chatbot
 
-![Alt Text](https://drive.google.com/uc?export=view&id=1gs4PWfpvRiozW76K9wj8Xb-91yFHfpZT)
+<img src="https://drive.google.com/uc?export=view&id=1gs4PWfpvRiozW76K9wj8Xb-91yFHfpZT" alt="Alt Text">
+
 
 
 # Demo Video(Click On It)-
